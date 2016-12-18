@@ -19,3 +19,6 @@ pushed into the master branch.
 application. Git and other version control frameworks use public repositories to allow
 general users to view and edit code as part of an open-source project. Private
 repositories on the other hand only allow designated users to participate.
+
+
+Please check your email ASAP and reply before the grading deadline. 
